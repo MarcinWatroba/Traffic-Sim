@@ -1,0 +1,78 @@
+﻿  stdafx.cpp
+  Building.cpp
+  Car.cpp
+  Grid.cpp
+Grid.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(120): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(122): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(124): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(126): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(128): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(130): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(145): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(147): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(149): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(151): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(153): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+Grid.cpp(155): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+  HUD.cpp
+HUD.cpp(263): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Marcin\Desktop\Traffic Simulator Project\Traffic Simulator Project\SFML-2.4.1-64\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  HUDObj.cpp
+  Intersection.cpp
+  main.cpp
+main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(155): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Object.cpp
+  PathFinding.cpp
+  PathPlanning.cpp
+PathPlanning.cpp(75): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(222): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(221): note: see reference to function template instantiation 'std::pair<bool,int> &std::pair<bool,int>::operator =<bool,__int64>(std::pair<bool,__int64> &&)' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(221): note: see reference to function template instantiation 'std::pair<bool,int> &std::pair<bool,int>::operator =<bool,__int64>(std::pair<bool,__int64> &&)' being compiled
+  PathPlanning.cpp(36): note: see reference to function template instantiation 'std::pair<std::pair<bool,int>,float> &std::pair<std::pair<bool,int>,float>::operator =<std::pair<bool,__int64>,float>(std::pair<std::pair<bool,__int64>,float> &&)' being compiled
+  PathPlanning.cpp(36): note: see reference to function template instantiation 'std::pair<std::pair<bool,int>,float> &std::pair<std::pair<bool,int>,float>::operator =<std::pair<bool,__int64>,float>(std::pair<std::pair<bool,__int64>,float> &&)' being compiled
+  Road.cpp
+  Scene.cpp
+Scene.cpp(76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(88): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(95): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(102): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(109): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(120): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(127): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(134): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(141): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(163): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Scene.cpp(176): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Scene.cpp(189): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Scene.cpp(201): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Scene.cpp(224): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(232): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(240): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(248): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(257): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Scene.cpp(265): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(268): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(307): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scene.cpp(310): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Scene.cpp(624): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(777): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(782): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+Scene.cpp(827): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(222): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Scene.cpp(342): note: see reference to function template instantiation 'std::pair<ObjectType,int> &std::pair<ObjectType,int>::operator =<ObjectType,__int64>(std::pair<ObjectType,__int64> &&)' being compiled
+  Scene.cpp(342): note: see reference to function template instantiation 'std::pair<ObjectType,int> &std::pair<ObjectType,int>::operator =<ObjectType,__int64>(std::pair<ObjectType,__int64> &&)' being compiled
+  TrafficLights.cpp
+  Vector2D.cpp
+  Generating code
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(134): warning C4715: 'Grid::getCointainer': not all control paths return a value
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(158): warning C4715: 'Grid::getInterCointainer': not all control paths return a value
+  All 2118 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Traffic Simulator Project.vcxproj -> C:\Users\Marcin\Desktop\Traffic Simulator Project\Traffic Simulator Project\x64\Release\Traffic Simulator Project.exe
+  Traffic Simulator Project.vcxproj -> C:\Users\Marcin\Desktop\Traffic Simulator Project\Traffic Simulator Project\x64\Release\Traffic Simulator Project.pdb (Full PDB)

@@ -1,0 +1,45 @@
+﻿  stdafx.cpp
+  Vector2D.cpp
+  TrafficLights.cpp
+  Scene.cpp
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\scene.cpp(307): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\scene.cpp(323): warning C4018: '<': signed/unsigned mismatch
+  Road.cpp
+  PathPlanning.cpp
+  PathFinding.cpp
+  Object.cpp
+  main.cpp
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\main.cpp(155): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\main.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Intersection.cpp
+  HUDObj.cpp
+  HUD.cpp
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\hud.cpp(263): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\marcin\desktop\traffic simulator project\traffic simulator project\sfml-2.4.1\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  Grid.cpp
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(120): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(122): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(124): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(126): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(128): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(130): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(145): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(147): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(149): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(151): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(153): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(155): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Car.cpp
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\car.cpp(516): warning C4018: '<': signed/unsigned mismatch
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\car.cpp(521): warning C4018: '<': signed/unsigned mismatch
+  Building.cpp
+  Generating Code...
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(134): warning C4715: 'Grid::getCointainer': not all control paths return a value
+c:\users\marcin\desktop\traffic simulator project\traffic simulator project\traffic simulator project\grid.cpp(158): warning C4715: 'Grid::getInterCointainer': not all control paths return a value
+  Traffic Simulator Project.vcxproj -> C:\Users\Marcin\Desktop\Traffic Simulator Project\Traffic Simulator Project\Debug\Traffic Simulator Project.exe
+  Traffic Simulator Project.vcxproj -> C:\Users\Marcin\Desktop\Traffic Simulator Project\Traffic Simulator Project\Debug\Traffic Simulator Project.pdb (Full PDB)
