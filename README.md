@@ -16,4 +16,5 @@ change interval. However, user is free to modify these, choosing custom routes, 
 All AI cars interact with eachother by comparing their positions, speeds and intentions. 
 There can be up to 1500 cars on the road network at once.
 
+<img src="https://github.com/marcin388/Traffic-Sim/blob/master/trafficSim.jpg">
 
